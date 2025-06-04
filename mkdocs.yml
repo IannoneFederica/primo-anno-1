@@ -4,25 +4,25 @@ theme:
   name: material
 
   font:
-    text: Delius
+    text: alfa slab one
 
   language: it
 
-  logo: AssetSito/butterfly.png
+  logo: 
 
   palette:
   
 
     # Palette toggle for light mode
     - scheme: default
-      primary: purple
+      primary: green
       toggle:
         icon: material/brightness-3
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary: deep purple
+      primary: deep green
       toggle:
         icon: material/brightness-1
         name: Switch to light mode
