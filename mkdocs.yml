@@ -1,4 +1,4 @@
-site_name: Documentazione
+site_name: iannfede in NTA
 site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -50,5 +50,5 @@ nav:
   - About:
     - Errori: About/Errori.md
     - Lavori: Lavori/Lavori.md
-  - Lab: Lab/Manifesta.md
+  - Lab: Lab/NTA.md
   
